@@ -1,0 +1,277 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "P-101",
+        "land_use": "Agricultural (Paddy)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              78.291,
+              17.1555
+            ],
+            [
+              78.2935,
+              17.1555
+            ],
+            [
+              78.2935,
+              17.1538
+            ],
+            [
+              78.291,
+              17.1538
+            ],
+            [
+              78.291,
+              17.1555
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "P-102",
+        "land_use": "Agricultural (Fallow)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              78.2937,
+              17.1555
+            ],
+            [
+              78.2965,
+              17.1555
+            ],
+            [
+              78.2965,
+              17.1538
+            ],
+            [
+              78.2937,
+              17.1538
+            ],
+            [
+              78.2937,
+              17.1555
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "P-103",
+        "land_use": "Agricultural (Cotton)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              78.291,
+              17.1536
+            ],
+            [
+              78.2935,
+              17.1536
+            ],
+            [
+              78.2935,
+              17.1515
+            ],
+            [
+              78.291,
+              17.1515
+            ],
+            [
+              78.291,
+              17.1536
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "P-104",
+        "land_use": "Residential (Abadi/Homestead)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              78.2937,
+              17.1536
+            ],
+            [
+              78.2952,
+              17.1536
+            ],
+            [
+              78.2952,
+              17.1515
+            ],
+            [
+              78.2937,
+              17.1515
+            ],
+            [
+              78.2937,
+              17.1536
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "P-105",
+        "land_use": "Commercial (Village Agro-Center)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              78.2954,
+              17.1536
+            ],
+            [
+              78.2968,
+              17.1536
+            ],
+            [
+              78.2968,
+              17.1524
+            ],
+            [
+              78.2954,
+              17.1524
+            ],
+            [
+              78.2954,
+              17.1536
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "P-106",
+        "land_use": "Water Body (Village Pond)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              78.2954,
+              17.1522
+            ],
+            [
+              78.2968,
+              17.1522
+            ],
+            [
+              78.2968,
+              17.1515
+            ],
+            [
+              78.2954,
+              17.1515
+            ],
+            [
+              78.2954,
+              17.1522
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "P-107",
+        "land_use": "Agricultural (Horticulture)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              78.2925,
+              17.1513
+            ],
+            [
+              78.2948,
+              17.1513
+            ],
+            [
+              78.2948,
+              17.1498
+            ],
+            [
+              78.2925,
+              17.1498
+            ],
+            [
+              78.2925,
+              17.1513
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "P-108",
+        "land_use": "Agricultural (Mustard)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              78.295,
+              17.1513
+            ],
+            [
+              78.2968,
+              17.1513
+            ],
+            [
+              78.2968,
+              17.1498
+            ],
+            [
+              78.295,
+              17.1498
+            ],
+            [
+              78.295,
+              17.1513
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
